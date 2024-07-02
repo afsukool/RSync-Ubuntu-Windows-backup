@@ -112,4 +112,4 @@ Execute `C:\rsync.bat` from the command line. Initial backups may take several h
 
 ---
 
-This project is designed to ensure a reliable and efficient backup system for your Windows XP machine to an Ubuntu server using `rsync`. For more details, consult the `rsync` man page and online resources.
+This project is designed to ensure a reliable and efficient backup system for your Windows machine to an Ubuntu server using `rsync`. For more details, consult the `rsync` man page and online resources.
