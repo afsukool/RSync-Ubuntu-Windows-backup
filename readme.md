@@ -1,6 +1,6 @@
-# Windows XP to Ubuntu Backup Project Using rsync
+# Windows to Ubuntu Backup Project Using rsync
 
-This project details how to set up a regular backup of a Windows XP machine to an Ubuntu server using `rsync`. The following instructions provide a step-by-step guide to configuring both the Ubuntu server and the Windows client. 
+This project details how to set up a regular backup of a Windows machine to an Ubuntu server using `rsync`. The following instructions provide a step-by-step guide to configuring both the Ubuntu server and the Windows client. 
 
 ## Getting Started
 
